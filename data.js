@@ -3,4 +3,4 @@ fetch(`https://api-dattebayo.vercel.app/cards`)
 .then(value=>console.log(value))
 .catch(error=>console.error(error));
 
-console.log(`version2`);
+console.log(`version3`);
